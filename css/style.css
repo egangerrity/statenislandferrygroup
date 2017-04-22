@@ -1,0 +1,119 @@
+body {
+width: 1240px;
+background-color: #77a7f4;
+}
+
+/*Navagation begins*/
+
+.center {
+    margin: auto;
+    width: 58%;
+} 
+
+h1 {
+    font-family: 'Crimson Text', serif;
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    display: inline-block;
+    margin-top: 50px;
+    background-color: #77a7f4;
+    color: orange;
+    padding-left: 60px;
+}
+
+li {
+    float: left;
+    font-size: 20px;
+}
+
+li a {
+    display: inline-block;
+    color: #f2db76;
+    padding: 32px;
+    text-decoration: none;
+}
+
+li a:hover {
+    color: #151fd6;
+    background-color: transparent;
+}
+
+/*Navigation ends*/
+
+
+.contain-everything {
+    max-width: 1240px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    font-family: 'Crimson Text', serif;
+    font-size: 16px;
+    padding-left: 200px;
+    padding-right: 200px;
+    text-align: justify;
+}
+
+img {
+    display: block;
+    margin-top: 40px ;
+    margin-left:auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    max-width: 1000px;
+    border: 1px solid yellow;
+    clear: left;
+    
+}
+
+.imgTwo {
+            /*float: left;*/
+            display: Inline-block;
+            margin-left: 40px;
+            margin-right: 0;
+            max-width: 1240px;
+            /*border: 1px solid red;*/
+}
+
+.captiontest {
+   color: yellow;
+   margin-left: 430px;
+   margin-top: 0;
+}
+
+.captiontestBarberi {
+   color: yellow;
+   margin-left: 400px;
+   margin-top: 0; 
+}
+
+
+
+}
+
+/* These 3 styles create a background color of blue or orange*/
+
+.guy {
+    width: 1200px;
+    height:1800px;
+    background-color: #77a7f4;
+}
+
+.marchi {
+    width: 1200px;
+    height: 1200px;
+    padding-top: 100px;
+    background-color: orange;
+}
+
+.spirit {
+    width: 1200px;
+    height: 620px;
+    padding-top: 100px;
+    background-color: #77a7f4;
+}
+
